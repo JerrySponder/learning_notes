@@ -147,7 +147,7 @@ my_value = None # my_value的值为空
 	t.left(95)
 ```
 
-![image-20191209224219143](imgs\Python碎片知识点_p1.png)
+<img src="imgs\python碎片知识点_p1.png" alt="1571238887415" style="zoom:67%;" />
 
 ```python
 >>> t.reset()
